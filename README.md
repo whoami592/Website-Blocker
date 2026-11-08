@@ -16,7 +16,7 @@ Python 3.6 or newer
 Administrator / root privileges (needed to edit the hosts file)
 🚀 Installation
 bash
-git clone https://github.com/<your-username>/website-blocker.git
+git clone https://github.com/whoami592/Website-Blocker
 cd website-blocker
 ▶️ Usage
 
