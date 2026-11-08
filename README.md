@@ -11,13 +11,19 @@ Cross-platform: Windows, Linux and macOS
 Skips entries that are already blocked (no duplicates)
 Automatically unblocks all sites when you stop the script with Ctrl+C
 Zero dependencies — uses only the Python standard library
+
 📋 Requirements
 Python 3.6 or newer
+
 Administrator / root privileges (needed to edit the hosts file)
+
 🚀 Installation
 bash
+
 git clone https://github.com/whoami592/Website-Blocker
+
 cd website-blocker
+
 ▶️ Usage
 
 Linux / macOS
