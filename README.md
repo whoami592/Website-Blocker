@@ -29,11 +29,13 @@ cd website-blocker
 Linux / macOS
 
 bash
+
 sudo python3 website_blocker.py
 
 Windows — open Command Prompt or PowerShell as Administrator, then run:
 
 powershell
+
 python website_blocker.py
 
 The script checks the time every 60 seconds:
